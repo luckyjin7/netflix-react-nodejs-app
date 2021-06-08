@@ -4,7 +4,7 @@
 
 ![1](https://user-images.githubusercontent.com/54943321/120403446-315df180-c312-11eb-9947-e1c64759ae21.png)
 
-## To Access the application in your local enviroment:
+## To Access the application in your local environment:
 
 #### 1. Use [Postman](https://www.postman.com/downloads/) to post movie data(json file) we needed.
 
